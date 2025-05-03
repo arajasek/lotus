@@ -357,7 +357,10 @@ require (
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
 
+require github.com/wealdtech/go-merkletree/v2 v2.6.1
+
 require (
+	github.com/iden3/go-iden3-crypto v0.0.16 // indirect
 	github.com/pion/dtls/v3 v3.0.4 // indirect
 	github.com/pion/ice/v4 v4.0.6 // indirect
 	github.com/pion/mdns/v2 v2.0.7 // indirect
